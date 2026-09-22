@@ -1,0 +1,20 @@
+# Unity generated / regenerable
+dokdo-unity/Library/
+dokdo-unity/Temp/
+dokdo-unity/Obj/
+dokdo-unity/Build/
+dokdo-unity/Builds/
+dokdo-unity/Logs/
+dokdo-unity/UserSettings/
+dokdo-unity/MemoryCaptures/
+dokdo-unity/.vs/
+dokdo-unity/*.csproj
+dokdo-unity/*.sln
+dokdo-unity/*.user
+
+# Built/extracted APKs (large binaries, regenerable from source)
+*.apk
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
